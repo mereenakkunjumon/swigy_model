@@ -1,0 +1,1 @@
+data.cards[4].groupedCard.cardGroupMap.REGULAR.cards[2].card.card.categories

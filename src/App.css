@@ -1,0 +1,56 @@
+.logoo{
+  height: 72px;
+  padding: 10px;
+  
+}
+.header{
+  display: flex;
+  border: 2px solid;
+}
+.nav{
+  margin-left: 163px;
+}
+.nav>ul{
+  display: flex;
+  justify-content: space-between;
+}
+.nav>ul>li{
+  padding: 23px;
+  margin-left: 10px;
+  list-style: none;
+}
+.rescard{
+  border: 2px solid;
+  width: 200px;
+  background-color: aqua;
+  padding :2px;
+  margin:5px;
+}
+.rescard:hover{
+  border: 0.5px solid black;
+}
+.resimage {
+  width: 172px;
+  padding: 0px;
+  margin: 4px;
+}
+.rescontainer{
+  display: flex;
+    flex-wrap: wrap;
+}
+.searchbtn{
+  padding:2px;
+  margin:1px
+}
+.shimmercontainer{
+  display: flex;
+}
+.shimmercard{
+  border: 2px solid;
+  width: 200px;
+  background-color: rgb(199, 216, 216);
+  padding :2px;
+  margin:5px;
+  height:400px;
+
+}
